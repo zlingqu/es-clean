@@ -88,7 +88,7 @@ spec:
             args:
             - "/bin/sh"
             - "-c"
-            - "--ip ** --port ** --indexName ** --keepTimeDay **"
+            - "./harbor-clean --ip ** --port ** --indexName ** --keepTimeDay **"
 ```
 
 
